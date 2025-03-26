@@ -5,6 +5,8 @@ Passionate and detail-oriented professional with a degree in Accounting and a st
 
 ### Education
 Bachelor of Commerce in Accounting - _University of Johannesburg_
+#### Certifications
+Syspro Level 1: System Administration
 
 ### Skills
 * Syspro Level 1: System Administration
