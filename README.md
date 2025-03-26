@@ -1,9 +1,9 @@
 # Aspiring Data Ananylst
 
-###Education
+### Education
 Bachelor of Commerce in Accounting
 
-###Work Experience
+### Work Experience
 ERP Intern
 - ATD Alliance
 
