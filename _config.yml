@@ -1,5 +1,5 @@
 title: Lindokuhle Malevu
-logo: "C:\Users\lindokuhle.malevu\Downloads\WhatsApp Image 2024-04-18 at 12.46.02 (1).jpeg"
+#logo: /assets/img/headshot_circle.png
 description: Aspiring Data Analyst
 #show_downloads: true
 theme: jekyll-theme-minimal
