@@ -44,5 +44,4 @@ October 2023 - March 2024
 * Successfully used the Sage accounting software to create quotes and invoices for customers to ensure timely delivery and acceptance. 
 * Handling client service and addressing any client inquiries or issues.
 
-### Projects
-EDA
+
